@@ -8,15 +8,22 @@
     "lib",
     "dist"
   ],
+  "contributors": [
+    "FireGuo <hjrluobo2h@qq.com>",
+    "WindyPear-Team <fireguo@flweb.cn>"
+  ],
   "license": "MIT",
-  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindyPear-Team/koishi-plugin-autocheck.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
-    "koishi": "^4.18.0"
+    "koishi": "^4.18.0",
+    "koishi-plugin-cron": "^3.1.0"
   }
 }
