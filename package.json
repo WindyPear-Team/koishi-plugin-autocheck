@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-autocheck",
-  "description": "让机器人自动群打卡！",
-  "version": "0.0.1",
+  "description": "让机器人零点自动群打卡！",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
